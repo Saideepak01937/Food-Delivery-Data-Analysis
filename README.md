@@ -1,8 +1,8 @@
 # Food-Delivery-Data-Analysis
-#Overview
+**Overview**
 An end-to-end analysis of food delivery order data to understand order trends, delivery performance, customer behavior, and business insights.
 
-#Tools Used
+**Tools Used**
 Python (Pandas, Google Colab), MySQL, Power BI
 
 #What I Did
