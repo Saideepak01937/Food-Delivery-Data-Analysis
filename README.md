@@ -41,9 +41,15 @@ Overall Data Overview
 <img width="847" height="527" alt="Screenshot 2026-11-20 120048" src="https://github.com/user-attachments/assets/36b35cdc-5a4c-4095-b315-faa519e04141" />
 
 **Files**
+
 Dataset/ : food_delivery_raw.csv
+
 cleaned Dataset/ : food_delivery_cleaned.csv
+
 Python_Analysis/ : Food_Delivery_Analysis.ipynb
+
 SQL/ : SQL_Python_Integration.py
+
 PowerBI/ : Food_Delivery_Dashboard.pbix
+
 Images/ : Dashboard screenshots
